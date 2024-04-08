@@ -1,0 +1,9 @@
+__pycache__
+env
+.vscode
+website/database/credentials.json
+website/credentials.env
+website/image_model/image_model_weights.pth
+website/audio_model/scaler.pkl
+website/audio_model/svm_model.pkl
+website/Lips_reading/Model
